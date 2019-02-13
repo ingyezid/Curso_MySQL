@@ -1,0 +1,5 @@
+Clave o contraseña de base de datos
+= 
+basedatos1
+
+Hola Mundo :-)
